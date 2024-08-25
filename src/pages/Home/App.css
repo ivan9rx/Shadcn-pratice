@@ -1,0 +1,22 @@
+/* src/App.css */
+
+.table-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    width: 100%; /* Ocupa a largura total disponível */
+  }
+
+  header {
+    height: 15vh;
+  }
+  
+  footer {
+    height: 15vh;
+  }
+  .table-wrapper {
+    width: 80%; /* Ajuste conforme necessário */
+    max-width: 1200px; /* Limita a largura máxima da tabela */
+  }
+  
